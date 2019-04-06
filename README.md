@@ -1,4 +1,4 @@
-# property-mapper v1.0.3
+# property-mapper v1.0.4
 property mapper is a package which will use for mapping with model
 ## Installation
 
@@ -19,6 +19,8 @@ See the [package source](https://github.com/nhs047/property-mapper) for more det
 
 **Usage:**<br>
 ```js
+var model = ['userName', 'userMail', 'age'];
+var obj = { userName: 'mark', userMail: 'mark@gmail.com', interest: 'gaming' }
 propertyMapper(model, obj);
-
+//output: { userName: 'mark', userMail: 'mark@gmail.com' }
 ```

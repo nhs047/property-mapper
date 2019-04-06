@@ -1,6 +1,6 @@
 {
   "name": "property-mapper",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "To map property",
   "main": "index.js",
   "keywords": [
