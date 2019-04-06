@@ -1,0 +1,12 @@
+{
+  "name": "property-mapper",
+  "version": "1.0.1",
+  "description": "To map property",
+  "main": "index.js",
+  "keywords": [
+    "model-mapper",
+    "property-mapper"
+  ],
+  "author": "Nobi Hossain",
+  "license": "ISC"
+}
